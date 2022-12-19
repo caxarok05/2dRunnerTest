@@ -1,2 +1,2 @@
 # 2dRunnerTest
-[alt text]https://ltdfoto.ru/image/XNWxlp
+[image alt]https://ltdfoto.ru/image/XNWxlp
