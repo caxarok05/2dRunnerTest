@@ -1,2 +1,2 @@
 # 2dRunnerTest
-![Image alt] (https://ltdfoto.ru/image/XNWxlp)
+![Image alt](https://ltdfoto.ru/image/XNWxlp)
